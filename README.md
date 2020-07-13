@@ -2,7 +2,7 @@
 first amr demo of gsf robotics
 
 
-first run this command to open world "roslaunch rebot_gazebo rebo.launch"
+first run this command to open world "roslaunch rebot_gazebo rebo.launch" **big_fac.world for many robot**
 
 run this command to spawn model "roslaunch rebot_description spanw.launch"
 
