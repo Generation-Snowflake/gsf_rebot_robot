@@ -1,4 +1,4 @@
-# GSF_rebot
+# gsf_rebot_robot
 first amr demo of gsf robotics
 
 
