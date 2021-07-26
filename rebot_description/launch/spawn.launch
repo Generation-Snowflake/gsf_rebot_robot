@@ -3,7 +3,7 @@
     
     <!--include file="$(find gazebo_ros)/launch/empty_world.launch"/-->
   
-    <param name="robot_description" command="$(find xacro)/xacro.py '$(find rebot_description)/urdf/rebot.xacro'" />
+    <param name="robot_description" command="$(find xacro)/xacro '$(find rebot_description)/urdf/rebot.xacro'" />
 
     <arg name="x" default="0"/>
     <arg name="y" default="0"/>
