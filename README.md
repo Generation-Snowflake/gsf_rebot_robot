@@ -9,8 +9,7 @@ This software is built on the Robotic Operating System (ROS), which needs to be 
 
 #### Installation
 - robot_state_publisher ``sudo apt-get install ros-noetic-robot-state-publisher``
-
-
+- run this command to spawn model ``roslaunch rebot_description spawn.launch``
 - first run this command to open world ``roslaunch rebot_gazebo rebo.launch`` *Noted if you want a big world for many robot you can use big_fac.world*
 
 - run this command to spawn model ``roslaunch rebot_description spanw.launch``
